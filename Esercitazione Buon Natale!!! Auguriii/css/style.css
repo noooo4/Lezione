@@ -1,0 +1,78 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+h1 {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    /* Colore di sfondo festivo */
+    background-color: #c00;
+    /* Rosso scuro per il periodo natalizio */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Container styles */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header styles */
+header {
+    background-color: #c00;
+    /* Rosso scuro per il periodo natalizio */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Main content styles */
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+/* Content area styles */
+.content {
+    width: 70%;
+}
+
+/* Sidebar styles */
+.sidebar {
+    width: 25%;
+    background-color: #fff;
+    /* Bianco per contrasto */
+    padding: 10px;
+    border: 2px solid #c00;
+    /* Bordo rosso */
+    border-radius: 10px;
+    /* Angoli arrotondati */
+}
+
+/* Footer styles */
+footer {
+    background-color: #c00;
+    /* Rosso scuro per il periodo natalizio */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* bi styles */
+.bi{
+    width: 30%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.carousel{
+    margin-top: 5%;
+    align-items: center;
+}
+
