@@ -18,7 +18,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - [Esercitazione Calcolatrice](#Esercitazione_Calcolatrice)
 - [Esercitazione Cicli-For](#Esercitazione_Cicli-For)
 - [Esercitazione Nouha Bouidra](#Esercitazione_Nouha_Bouidra)
-- [Esercitazione Controlli-IF](#Esercitazione_Controlli-IF)
+- [Esercitazione_Controlli-IF](#Esercitazione_Controlli-IF)
 - [Installazione](#Installazione)
 
 ## Descrizione Esercitazioni
@@ -63,7 +63,7 @@ esercitazione cicli-for
     - nome
     - cognome
 
-### Esercitazione Controlli-IF :
+### Esercitazione_Controlli-IF :
 01. Dati i numeri confronta quale il più grande
 02. Dati i nomi utente verifica che tutti e tre siano corretti
 03. Dati i 2 numeri compresi tra 0 e 100 verifica quale il più vicino a 100
