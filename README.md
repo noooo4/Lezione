@@ -9,6 +9,6 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 5: Elemento Demo
 - Lezione 6: feedback.innerHTML
 - Lezione 7: Operatori di Confronto
-- Lezione 8: Esercizio sui Controlli-IF
+- Lezione 8: Controlli-IF
 - Lezione 9: *
-- Lezione 10: *
+- Lezione 10: Ciclo-For
