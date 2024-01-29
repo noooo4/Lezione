@@ -8,7 +8,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 4: Console log
 - Lezione 5: Elemento Demo
 - Lezione 6: feedback.innerHTML
-- Lezione 7:
+- Lezione 7: Operatori di Confronto
 - Lezione 8:
 - Lezione 9: *
 - Lezione 10: *
