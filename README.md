@@ -7,7 +7,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 3: GitHub
 - Lezione 4: Console log
 - Lezione 5: Elemento Demo
-- Lezione 6:
+- Lezione 6: feedback.innerHTML
 - Lezione 7:
 - Lezione 8:
 - Lezione 9: *
