@@ -18,7 +18,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - [Esercitazione Calcolatrice](#Esercitazione_Calcolatrice)
 - [Esercitazione Cicli-For](#Esercitazione_Cicli-For)
 - [Esercitazione Nouha Bouidra](#Esercitazione_Nouha_Bouidra)
-- [Esercitazione_Controlli-IF](#Esercitazione_Controlli-IF)
+- [Esercitazione Controlli-IF](#Esercitazione_Controlli-IF)
 - [Installazione](#Installazione)
 
 ## Descrizione Esercitazioni
