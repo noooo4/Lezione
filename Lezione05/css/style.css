@@ -1,0 +1,13 @@
+/* CSS === CASCADING STYLE SHEET */
+
+/* Rcupero un elemento sttraverso il suo id */
+
+#elementoSaluto{
+    background-color: rebeccapurple;
+    border: 1px solid black;
+}
+
+#elementoDemo{
+    background-color: aqua;
+    color: aliceblue;
+}
