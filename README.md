@@ -40,7 +40,7 @@ esercitazione cicli-for
    - Anno di nascita
  Stampare nella pagina un saluto (es. "Ciao Pippo, hai 22 anni")
 
-### [Esercitazione Cicli-For](#Esercitazione Cicli-For):
+[Esercitazione Cicli-For](#Esercitazione Cicli-For):
   Crea un array con i seguenti voti [100, 20, 50, 60, 65, 55, 80, 95]
   Scorri l'array e controlla i voti.
   Quando il voto è minore di 60 stampa un asterisco * accanto al voto.
