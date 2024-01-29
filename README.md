@@ -14,7 +14,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 10: Ciclo-For
 
 ## Descrizione Esercitazioni
-### [Esercitazione Buon Natale!!! Auguriii](#Esercitazione Buon Natale!!! Auguriii):
+### [Esercitazione Buon Natale!!! Auguriii](#Esercitazione_Buon_Natale!!!_Auguriii):
 1. Costruire una struttura per un progetto html con le cartelle corrette
 2. Inserire un titolo principale "Esercitazione Nome Cognome Natale"
 3. Collegare correttamente un file js ad un file html
@@ -33,7 +33,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 UPGRADE: Far inserire all'utente i giorni che mancano al Natale attraverso un window.prompt
 esercitazione cicli-for
 
-### [#Esercitazione Calcolatrice](#Esercitazione Calcolatrice):
+### [#Esercitazione Calcolatrice](#Esercitazione_Calcolatrice):
  Semplice Calcolatrice e stampare il risultato su index.html usando il document.right();
  Utilizzando il prompt() chiedere all'utente:
    - Nome
@@ -55,7 +55,7 @@ esercitazione cicli-for
     - nome
     - cognome
 
-### [Esercitazione Controlli-IF](#Esercitazione Controlli-IF):
+### [Esercitazione Controlli-IF](#Esercitazione_Controlli-IF):
 01. Dati i numeri confronta quale il più grande
 02. Dati i nomi utente verifica che tutti e tre siano corretti
 03. Dati i 2 numeri compresi tra 0 e 100 verifica quale il più vicino a 100
