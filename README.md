@@ -33,7 +33,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 UPGRADE: Far inserire all'utente i giorni che mancano al Natale attraverso un window.prompt
 esercitazione cicli-for
 
-### [#Esercitazione Calcolatrice](#Esercitazione Cicli-For):
+### [#Esercitazione Calcolatrice](#Esercitazione Calcolatrice):
  Semplice Calcolatrice e stampare il risultato su index.html usando il document.right();
  Utilizzando il prompt() chiedere all'utente:
    - Nome
@@ -47,7 +47,7 @@ esercitazione cicli-for
   Quando invece è maggiore o uguale a 60 stampa una A accanto al voto. 
   Quando il voto è 100 stampa AAA accanto al voto.
 
-### [Esercitazione Nouha Bouidra](#Esercitazione Nouha Bouidra):
+### [Esercitazione Nouha Bouidra](#Esercitazione_Nouha_Bouidra):
 1. Costruire una struttura per un progetto html con le cartelle corrette
 2. Inserire un titolo principale "Esercitazione Nome Cognome"
 3. Collegare correttamente un file js ad un file html
