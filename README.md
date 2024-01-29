@@ -14,7 +14,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 10: Ciclo-For
 
 ## Descrizione Esercitazioni
-### (Esercitazione Buon Natale!!! Auguriii)[#https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Buon%20Natale!!!%20Auguriii]:
+### (https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Buon%20Natale!!!%20Auguriii)[#Esercitazione Buon Natale!!! Auguriii]:
 1. Costruire una struttura per un progetto html con le cartelle corrette
 2. Inserire un titolo principale "Esercitazione Nome Cognome Natale"
 3. Collegare correttamente un file js ad un file html
@@ -33,24 +33,22 @@ Repository delle lezioni del corso di Tecnico Informatico
 UPGRADE: Far inserire all'utente i giorni che mancano al Natale attraverso un window.prompt
 esercitazione cicli-for
 
-### (Esercitazione Calcolatrice)
-### [https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Calcolatrice]:
+### (https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Calcolatrice)[#Esercitazione Calcolatrice]:
  Semplice Calcolatrice e stampare il risultato su index.html usando il document.right();
  Utilizzando il prompt() chiedere all'utente:
    - Nome
    - Anno di nascita
  Stampare nella pagina un saluto (es. "Ciao Pippo, hai 22 anni")
 
-### (Esercitazione Cicli-For)
-### [https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Cicli-For]:
+### (https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Cicli-For)[#Esercitazione Cicli-For]:
   Crea un array con i seguenti voti [100, 20, 50, 60, 65, 55, 80, 95]
   Scorri l'array e controlla i voti.
   Quando il voto è minore di 60 stampa un asterisco * accanto al voto.
   Quando invece è maggiore o uguale a 60 stampa una A accanto al voto. 
   Quando il voto è 100 stampa AAA accanto al voto.
 
-### (Esercitazione Nouha Bouidra)
-### [https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Nouha%20Bouidra]
+### (https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Nouha%20Bouidra)[#Esercitazione Nouha Bouidra]
+
   1. Costruire una struttura per un progetto html con le cartelle corrette
 2. Inserire un titolo principale "Esercitazione Nome Cognome"
 3. Collegare correttamente un file js ad un file html
@@ -58,10 +56,31 @@ esercitazione cicli-for
     - nome
     - cognome
 
-### (Esercitazione Controlli-IF)
-### [https://github.com/noooo4/Lezione/tree/main/Esercizitazione%20Controlli-IF]:
+### (https://github.com/noooo4/Lezione/tree/main/Esercizitazione%20Controlli-IF)[#Esercitazione Controlli-IF]:
 01. Dati i numeri confronta quale il più grande
 02. Dati i nomi utente verifica che tutti e tre siano corretti
 03. Dati i 2 numeri compresi tra 0 e 100 verifica quale il più vicino a 100
 04. Dati i 2 numeri compresi tra 0 e 200 verifica quale il più vicino a 100
+
+
+# Project Name
+
+## Description
+
+A brief description of your project goes here. Include what it does and why it's useful.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Provide instructions on how to install your project. You can include code snippets if needed.
+
+```bash
+npm install your-package-name
+
   
