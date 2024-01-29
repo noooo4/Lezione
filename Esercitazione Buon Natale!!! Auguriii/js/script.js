@@ -14,7 +14,7 @@ console.log("giorniNatale : " + giorniNatale);
 
 // 5.Calcolo Giorni a Natale
 if (giorniNatale >= 7) {
-    console.log("Manca una settiamna");
+    console.log("Manca circa una settiamna");
 } else if (giorniNatale < 7 && giorniNatale > 0) {
     console.log("Manca pochissimo");
 } else if (giorniNatale === 0) {
