@@ -22,7 +22,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - [Installazione](#Installazione)
 
 ## Descrizione Esercitazioni
-### Esercitazione Buon Natale!!! Auguriii
+## Esercitazione Buon Natale!!! Auguriii
 1. Costruire una struttura per un progetto html con le cartelle corrette
 2. Inserire un titolo principale "Esercitazione Nome Cognome Natale"
 3. Collegare correttamente un file js ad un file html
