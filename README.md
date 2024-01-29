@@ -14,8 +14,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 10: Ciclo-For
 
 ## Descrizione Esercitazioni
-### (Esercitazione Buon Natale!!! Auguriii)
-### [https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Buon%20Natale!!!%20Auguriii]:
+### (https://github.com/noooo4/Lezione/tree/main/Esercitazione%20Buon%20Natale!!!%20Auguriii)[Esercitazione Buon Natale!!! Auguriii]:
 1. Costruire una struttura per un progetto html con le cartelle corrette
 2. Inserire un titolo principale "Esercitazione Nome Cognome Natale"
 3. Collegare correttamente un file js ad un file html
