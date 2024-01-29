@@ -14,11 +14,11 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 10: Ciclo-For
 
 ## Table of Contents
-- [Esercitazione Buon Natale!!! Auguriii](#Esercitazione_Buon_Natale!!!_Auguriii)
-- [Esercitazione Calcolatrice](#Esercitazione_Calcolatrice)
-- [Esercitazione Cicli-For](#Esercitazione_Cicli-For)
-- [Esercitazione Nouha Bouidra](#Esercitazione_Nouha_Bouidra)
-- [Esercitazione Controlli-IF](#Esercitazione_Controlli-IF)
+- [EsercitazioneBuonNatale!!!Auguriii](#BuonNatale!!!Auguriii)
+- [Calcolatrice](#Calcolatrice)
+- [Cicli-For](#Cicli-For)
+- [Esercitazione](#Esercitazione)
+- [Controlli-IF](#Controlli-IF)
 - [Installazione](#Installazione)
 
 ## Descrizione Esercitazioni
