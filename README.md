@@ -14,7 +14,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 10: Ciclo-For
 
 ## Table of Contents
-- [EsercitazioneBuonNatale!!!Auguriii](#BuonNatale!!!Auguriii)
+- [BuonNatale!!!Auguriii](#BuonNatale!!!Auguriii)
 - [Calcolatrice](#Calcolatrice)
 - [Cicli-For](#Cicli-For)
 - [Esercitazione](#Esercitazione)
