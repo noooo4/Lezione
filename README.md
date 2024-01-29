@@ -14,7 +14,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - Lezione 10: Ciclo-For
 
 ## Table of Contents
-- [BuonNatale!!!Auguriii](#BuonNatale!!!Auguriii)
+- [BuonNatale!](#BuonNatale!)
 - [Calcolatrice](#Calcolatrice)
 - [Cicli-For](#Cicli-For)
 - [Esercitazione](#Esercitazione)
@@ -22,7 +22,7 @@ Repository delle lezioni del corso di Tecnico Informatico
 - [Installazione](#Installazione)
 
 ## Descrizione Esercitazioni
-## BuonNatale!!!Auguriii
+## BuonNatale!
 1. Costruire una struttura per un progetto html con le cartelle corrette
 2. Inserire un titolo principale "Esercitazione Nome Cognome Natale"
 3. Collegare correttamente un file js ad un file html
