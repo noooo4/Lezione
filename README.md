@@ -70,10 +70,9 @@ esercitazione cicli-for
 04. Dati i 2 numeri compresi tra 0 e 200 verifica quale il più vicino a 100
 
 ## Installazione
-
-Provide instructions on how to install your project. You can include code snippets if needed.
+Le instruzioni per installare il progetto. 
 
 ```bash
 npm install Lezione
 
-  
+
